@@ -2,6 +2,9 @@
 <workflow xmlns="http://vmware.com/vco/workflow" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://vmware.com/vco/workflow http://vmware.com/vco/workflow/Workflow-v4.xsd" root-name="item1" object-name="workflow:name=generic" id="d72a5471-7998-4e49-b3e9-42f806c43266" version="0.0.0" api-version="6.0.0" allowed-operations="vef" restartMode="1" resumeFromFailedMode="0">
   <display-name><![CDATA[Workflow 3]]></display-name>
   <position y="9.545454545454543" x="105.0"/>
+  <workflow-note x="200.0" y="72.72727272727272" w="440.0" h="245.45454545454544">
+    <description><![CDATA[Double-click to edit note]]></description>
+  </workflow-note>
   <workflow-item name="item0" type="end" end-mode="0">
     <position y="190.86363636363635" x="344.5"/>
   </workflow-item>
