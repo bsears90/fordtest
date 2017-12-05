@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Exported from [server]</comment>
+<entry key="categoryPath">MyWorkflows</entry>
+<entry key="name">Workflow 3</entry>
+<entry key="type">Workflow</entry>
+<entry key="id">d72a5471-7998-4e49-b3e9-42f806c43266</entry>
+</properties>
