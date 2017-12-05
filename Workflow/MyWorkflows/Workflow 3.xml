@@ -10,12 +10,14 @@
   </workflow-item>
   <workflow-item name="item1" out-name="item2" type="task">
     <display-name><![CDATA[Scriptable task]]></display-name>
+    <script encoded="false"><![CDATA[//comment 1]]></script>
     <in-binding/>
     <out-binding/>
     <position y="64.5" x="164.5"/>
   </workflow-item>
   <workflow-item name="item2" out-name="item0" type="task">
     <display-name><![CDATA[Scriptable task]]></display-name>
+    <script encoded="false"><![CDATA[//comment 2]]></script>
     <in-binding/>
     <out-binding/>
     <position y="128.13636363636363" x="244.5"/>

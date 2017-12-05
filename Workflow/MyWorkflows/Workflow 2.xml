@@ -7,12 +7,14 @@
   </workflow-item>
   <workflow-item name="item1" out-name="item2" type="task">
     <display-name><![CDATA[Scriptable task]]></display-name>
+    <script encoded="false"><![CDATA[Server.log("HELLO");]]></script>
     <in-binding/>
     <out-binding/>
     <position y="55.40909090909091" x="204.5"/>
   </workflow-item>
   <workflow-item name="item2" out-name="item0" type="task">
     <display-name><![CDATA[Scriptable task]]></display-name>
+    <script encoded="false"><![CDATA[Server.log("GHOO");]]></script>
     <in-binding/>
     <out-binding/>
     <position y="55.40909090909091" x="344.5"/>
